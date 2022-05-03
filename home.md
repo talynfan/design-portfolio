@@ -1,7 +1,7 @@
 # Talyn Fan
 Design Portfolio
 
-[About Me](#about-me) | [My Design Principles](/my-principles.md) | [My Work](#my-work) | [Contact](#contact)
+[Home](/home.md) | [About Me](#about-me) | [My Design Principles](/my-principles.md) | [My Work](#my-work) | [Contact](#contact)
 
 ## About Me
 <img src="IMG_1838.jpg" alt="Portrait of Talyn Fan" width="200"/>
@@ -23,4 +23,4 @@ Email: talynfan@gmail.com
 
 [LinkedIn](https://www.linkedin.com/in/talyn-fan-987652203/)
 
-[About Me](#about-me) | [My Design Principles](/my-principles.md) | [My Work](#my-work) | [Contact](#contact)
+[Home](/home.md) | [About Me](#about-me) | [My Design Principles](/my-principles.md) | [My Work](#my-work) | [Contact](#contact)
