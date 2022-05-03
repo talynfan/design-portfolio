@@ -41,6 +41,8 @@ Include log of daily activities for figma,
 
 in progress photos of sonus, 
 
+<img src="pics/sonus draft 1.jpg" alt="First draft of sonus mask" width="600"/>
+
 really organized spreadsheet for Argyle
 
 <img src="pics/argyle categories.png" alt="Categories for the Argyle chatbot" width="600"/>
@@ -90,6 +92,12 @@ figma sketch
 ## Risk-taking
 
 Not all of the things I do work. 
+
+Problems with Sonus mask
+
+<img src="pics/sonus failed wire.jpg" alt="Failing to attach a wire to the Sonus mask" width="600"/>
+
+<img src="pics/sonus final.jpg" alt="Final iteration of Sonus mask" width="600"/>
 
 > Such is the nature of bold design — risks don’t always pan out as you hope, but with each iteration, the solution comes closer within reach. 
 > 
