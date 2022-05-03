@@ -1,3 +1,7 @@
+# Talyn Fan
+
+[Home](/home.md) | [About Me](#about-me) | [My Design Principles](/my-principles.md) | [My Work](#my-work) | [Contact](#contact)
+
 # My Design Principles
 
 _A manifesto, if you will._
@@ -38,3 +42,5 @@ Not all of the things I do work.
 Talk about Argyle, Sonus
 
 Iteration is the key afterwards. This goes with low-fidelity prototyping.
+
+[Home](/home.md) | [About Me](#about-me) | [My Design Principles](/my-principles.md) | [My Work](#my-work) | [Contact](#contact)
