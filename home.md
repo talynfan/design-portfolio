@@ -2,7 +2,6 @@
 Design Portfolio
 
 [About Me](#about-me) | [My Design Principles](#my-design-principles) | [My Work](#my-work) | [Contact](#contact)
-___
 
 ## About Me
 <img src="IMG_1838.jpg" alt="Portrait of Talyn Fan" width="200"/>
