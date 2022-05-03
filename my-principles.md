@@ -13,11 +13,11 @@ Enjoyment is very important to me. A product should be fun to use, beyond its ut
 
 Include Argyle and video game design. Sarcastic personality really shines
 
-<img src="pics/vg adventure.png" alt="Adventure genre video game visualization" width="1000px"/>
+<img src="pics/vg adventure.png" alt="Adventure genre video game visualization" width="600"/>
 
-<img src="pics/vg educational.png" alt="Educational video game visualization" width="1000px"/>
+<img src="pics/vg educational.png" alt="Educational video game visualization" width="600"/>
 
-<img src="pics/vg strategy.png" alt="Strategy video game visualization" width="1000px"/>
+<img src="pics/vg strategy.png" alt="Strategy video game visualization" width="600"/>
 
 Choice of Argyle name instead of bot
 
@@ -37,13 +37,13 @@ I keep organized in my design process and take good notes of all iterations, fro
 
 Include log of daily activities for figma, 
 
-<img src="pics/fox process document.png" alt="Design log for Fox Theater website redesign" width="1000px"/>
+<img src="pics/fox process document.png" alt="Design log for Fox Theater website redesign" width="600"/>
 
 in progress photos of sonus, 
 
 really organized spreadsheet for Argyle
 
-<img src="pics/argyle categories.png" alt="Categories for the Argyle chatbot" width="1000px"/>
+<img src="pics/argyle categories.png" alt="Categories for the Argyle chatbot" width="600"/>
 
 ## Storytelling
 
@@ -51,11 +51,11 @@ A user's experience is like a crafted story. I like thinking about the psycholog
 
 Examples include Argyle, 
 
-<img src="pics/argyle categories.png" alt="Argyle's conversational framework" width="1000px"/>
+<img src="pics/argyle categories.png" alt="Argyle's conversational framework" width="600"/>
 
 Figma flow, 
 
-<img src="pics/fox figma flowchart.png" alt="Flow for Fox Theater mobile site on Figma" width="1000px"/>
+<img src="pics/fox figma flowchart.png" alt="Flow for Fox Theater mobile site on Figma" width="600"/>
 
 demo video,
 
@@ -73,19 +73,19 @@ I love to sketch. Drawing and doodling helps me quickly understand what a techno
 
 Include sonus sketch, 
 
-<img src="pics/sonus brainstorming.png" alt="Sketching ideas for Sonus product" width="1000px"/>
+<img src="pics/sonus brainstorming.png" alt="Sketching ideas for Sonus product" width="600"/>
 
 storyboard, 
 
-<img src="pics/sonus storyboard.png" alt="Storyboard for Sonus product" width="1000px"/>
+<img src="pics/sonus storyboard.png" alt="Storyboard for Sonus product" width="600"/>
 
 figma sketch
 
-<img src="pics/whiteboard fox calendar.jpg" alt="Whiteboard sketches for Fox Theater mobile events calendar" width="1000px"/>
+<img src="pics/whiteboard fox calendar.jpg" alt="Whiteboard sketches for Fox Theater mobile events calendar" width="600"/>
 
-<img src="pics/fox calendar paper prototype.jpeg" alt="Paper mockup for Fox Theater mobile events calendar" width="1000px"/>
+<img src="pics/fox calendar paper prototype.jpeg" alt="Paper mockup for Fox Theater mobile events calendar" width="600"/>
 
-<img src="pics/fox calendar figma prototype.png" alt="Figma prototype for Fox Theater mobile events calendar" width="1000px"/>
+<img src="pics/fox calendar figma prototype.png" alt="Figma prototype for Fox Theater mobile events calendar" width="600"/>
 
 ## Risk-taking
 
