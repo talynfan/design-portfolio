@@ -57,9 +57,10 @@ Figma flow,
 
 <img src="pics/fox figma flowchart.png" alt="Flow for Fox Theater mobile site on Figma" width="1000px"/>
 
-storyboard, 
+demo video,
 
-
+% Sonus demo video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kYm8l7__9jU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 and video game design
 
