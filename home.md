@@ -1,5 +1,4 @@
 # Talyn Fan
-Design Portfolio
 
 [Home](/home.md) | [About Me](#about-me) | [My Design Principles](/my-principles.md) | [My Work](#my-work) | [Contact](#contact)
 
