@@ -16,6 +16,18 @@ Include Argyle and video game design.
 % Video game demo video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MKC1jK0KJ8Q?start=192" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+Choice of Argyle name instead of bot
+
+When it was time for the results phase, instead of a blunt
+
+> Click next for results
+
+I imitated the way real people my age type to make things a little playful and add a hint of excitement.
+
+> Aaaaand that's all the questions I have. Ready for your results?
+
+
+
 ## Organization
 
 I keep organized in my design process and take good notes of all iterations, from start to finish. In a team, I am typically the person to "take minutes" of what is accomplished each meeting or day.
