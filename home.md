@@ -24,5 +24,6 @@ I graduated from Emory University with a B.A. in English and Creative Writing an
 
 
 ## Contact
-[Email](talynfan@gmail.com)
+Email: talynfan@gmail.com
+
 [LinkedIn](https://www.linkedin.com/in/talyn-fan-987652203/)
