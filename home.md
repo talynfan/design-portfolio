@@ -3,7 +3,7 @@
 [Home](/home.md) | [About Me](#about-me) | [My Design Principles](/my-principles.md) | [My Work](#my-work) | [Contact](#contact)
 
 ## About Me
-<img src="IMG_1838.jpg" alt="Portrait of Talyn Fan" width="200"/>
+<img src="pics/portrait.jpg" alt="Portrait of Talyn Fan" width="200"/>
 
 I graduated from Emory University with a B.A. in English and Creative Writing and a minor in Computer Science in 2022. In both my artistic and technological pursuits, I aim to craft entertaining and meaningful experiences for my audiences.
 
