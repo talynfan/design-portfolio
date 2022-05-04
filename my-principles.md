@@ -38,7 +38,7 @@ I also worked with a team to create a flowchart for a Figma prototype of a redes
 
 When creating a demo video for a new product design for the Fox Theater, "Sonus", I had two choices. One idea was to simply film the physical prototype from multiple angles and describe its function. However, this would have been a stiff and uninspiring video, as our actual prototype was relatively unfunctional. 
 
-So, I went with the second idea: illustrate a user story with made up characters in a scenario typical of when Sonus might be helpful. Present the problem (wanting to give live commentary in the theater), present the potential solution (Sonus), and illustrate how the solution solves the problem. A slogan in the title, "Live Theater, Live Commentary," further communicates the intent of the design in a catchy, succinct manner. By creating the demo video to be like a little movie with a story, it better communicates the design to the target audience so that their own minds fill in the gaps of the incomplete prototype.
+So, I went with the second idea: illustrate a user story with made-up characters in a scenario typical of when Sonus might be helpful. Present the problem (wanting to give live commentary in the theater), present the potential solution (Sonus), and illustrate how the solution solves the problem. A slogan in the title, "Live Theater, Live Commentary," further communicates the intent of the design in a catchy, succinct manner. By creating the demo video to be like a little movie with a story, it better communicates the design to the target audience so that their own minds fill in the gaps of the incomplete prototype.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kYm8l7__9jU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -99,7 +99,7 @@ Aside from documentation, I also prioritized organization in the design process 
 
 ## Low-fidelity prototyping
 
-Even though I don't skimp on keeping my designs organized, **I still save time by sketching out my designs on paper.** Drawing and doodling helps me quickly understand what a technology will look like or is capable of before it is even built. I use messy sketches to brainstorm, and I draw with more effort to create testable, low-fidelity prototypes.
+While I don't skimp on keeping my designs organized, **I still save time by sketching out my designs on paper.** Drawing and doodling helps me quickly understand what a technology will look like or is capable of before it is even built. I use messy sketches to brainstorm, and I draw with more effort to create testable, low-fidelity prototypes.
 
 When my team first imagined the Sonus mask, our initial idea looked significantly different from the final product. Most notably, it had goggles with augmented reality. Before we began building our prototype, I sketched out a few ideas of what it would look like. This helped us realize that the AR goggles were too lofty a goal to be included in our product in our short work window.
 
@@ -129,9 +129,9 @@ In summary, **low-fidelity sketching is my prototyping medium of choice because 
 
 ## Risk-Taking
 
-Low-fidelity prototyping pairs well with my final two design principles: risk-taking. Simply put, I have accepted that not all of my designs will work as intended, but that is okay. **It is better to take creative risks and be ambitious than to play it completely safe.** If all designs were recycled from previous, successful, "safe" products, then what even is the point of being a designer?
+Low-fidelity prototyping pairs well with my finaldesign principle: risk-taking. Simply put, I have accepted that not all of my designs will work as intended, but that is okay. **It is better to take creative risks and be ambitious than to play it completely safe.** If all designs were recycled from previous, successful, "safe" products, then what even is the point of being a designer?
 
-**The nice thing about low-fidelity prototyping is that the investment in each iteration is relatively small in terms of time and resources.** If a sketch is bad, I simply draw another one. If a user does not understand my paper prototype, I can make a new screen on the fly to address the issue.
+**The nice thing about low-fidelity prototyping is that the investment in each iteration is relatively small in terms of time and resources.** If a sketch is bad, I simply draw another one. If a user does not understand my paper prototype, I can make a new screen on the fly to address the issue. I thus have more room to take risks and fail freely.
 
 In particular, I had several issues in the creation of the Sonus mask for the Fox Theater. The creation of the physical prototype itself was tricky. In our first iteration of the prototype, the ear straps were too loose, the mask wouldn't stay conformed to the face, and the mask was too large. We couldn't even get hot glue to stick to a shaping wire that was intended to fix many of these problems.
 
