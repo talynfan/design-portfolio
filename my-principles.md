@@ -2,6 +2,8 @@
 
 ### [Home](/home.md) | [About Me](/home.md#about-me) | [My Design Principles](/my-principles.md) | [My Work](/home.md#my-work) | [Contact](/home.md#contact)
 
+***
+
 # My Design Principles
 
 _What's important to me as a designer?_
@@ -93,23 +95,33 @@ Aside from documentation, I also prioritized organization in the design process 
 
 ## Low-fidelity prototyping
 
-I love to sketch. Drawing and doodling helps me quickly understand what a technology will look like before it is even built. It is important to communicate the essence of an idea without needing it to function.
+Even though I don't skimp on keeping my designs organized, **I still save time by sketching out my designs on paper.** Drawing and doodling helps me quickly understand what a technology will look like or is capable of before it is even built. I use messy sketches to brainstorm, and I draw with more effort to create testable, low-fidelity prototypes.
 
-Include sonus sketch, 
+When my team first imagined the Sonus mask, our initial idea looked significantly different from the final product. Most notably, it had goggles with augmented reality. Before we began building our prototype, I sketched out a few ideas of what it would look like. This helped us realize that the AR goggles were too lofty a goal to be included in our product in our short work window.
 
 <img src="pics/sonus brainstorming.png" alt="Sketching ideas for Sonus product" width="600"/>
 
-storyboard, 
+When creating the storyboard for the Sonus demo video, I drew each frame out on paper. I drew stick figures to save time, but still gave them distinguishing features and details where necessary for clarity. By being efficient with my time spent drawing, I was able to put more time into devising the script, editing the video, and working on the physical mask itself.
 
 <img src="pics/sonus storyboard.png" alt="Storyboard for Sonus product" width="600"/>
 
-figma sketch
+I also sketched out the interface and visualizations of the video game dataset on paper. This sketch is sheet 5, the "final design", of the [5 design sheet methodology](http://fds.design/index.php/resources-and-publications/). **These drawings can communicate the essence of an idea without needing it to actually function.**
+
+<img src="pics/vg sketch.jpg" alt="Sketches of the video game visualization" width="600"/>
+
+For the Fox Theater mobile site redesign, the design spent almost all of its life in different forms of sketches.  I designed these particular screens for the calendar and list views of the event schedule. Because it was on a whiteboard, my team and I were able to easily discuss the design and make changes until we were satisfied.
 
 <img src="pics/whiteboard fox calendar.jpg" alt="Whiteboard sketches for Fox Theater mobile events calendar" width="600"/>
 
+We then created all of the screens for the mobile site manually on paper and cut them into phone-sized screens in order to test with users.
+
 <img src="pics/fox calendar paper prototype.jpeg" alt="Paper mockup for Fox Theater mobile events calendar" width="600"/>
 
+After evaluating the paper screens with user testing, we moved on to remake them as medium fidelity mock-ups in Figma. (Note: the color scheme was later revised to be darker and easier to view.) This last, digital prototype was made possible by its low-fidelity paper predecessors.
+
 <img src="pics/fox calendar figma prototype.png" alt="Figma prototype for Fox Theater mobile events calendar" width="600"/>
+
+In summary, **low-fidelity sketching is my prototyping medium of choice because it allows for rapid iteration and efficiency of effort.**
 
 ## Risk-taking
 
@@ -121,13 +133,13 @@ Problems with Sonus mask
 
 <img src="pics/sonus final.jpg" alt="Final iteration of Sonus mask" width="600"/>
 
-> Such is the nature of bold design — risks don’t always pan out as you hope, but with each iteration, the solution comes closer within reach. 
-> 
-> -a quote from me
+**Such is the nature of bold design — risks don’t always pan out as you hope, but with each iteration, the solution comes closer within reach.**
 
 Talk about Argyle, Sonus
 
 Iteration is the key afterwards. This goes with low-fidelity prototyping.
+
+***
 
 [_Read about my design projects in detail here._](/home.md#my-work)
 
