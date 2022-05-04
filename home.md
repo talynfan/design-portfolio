@@ -13,25 +13,25 @@ I graduated from Emory University with a B.A. in English and Creative Writing an
 
 ## My work
 
-<img src="pics/fox calendar figma prototype.png" alt="Redesigning the Fox Theater Website" width="500"/> 
+- <img src="pics/fox calendar figma prototype.png" alt="Redesigning the Fox Theater Website" height="100"/> 
 
 [Redesigning the Fox Theater Website](https://medium.com/@talynfan/redesigning-the-fox-theatre-website-8ebb5d3e290d)
 
 
 
-<img src="pics/vg adventure.png" alt="Visualizing Video Games" width="500"/>
+- <img src="pics/vg adventure.png" alt="Visualizing Video Games" height="100"/>
 
 [Visualizing Video Games](https://medium.com/@talynfan/visualizing-video-games-b97b8d7f8d62)
 
 
 
-<img src="pics/argyle ui.png" alt="Argyle: A Conversational Chatbot for Your Next Big Move" width="500"/>
+- <img src="pics/argyle ui.png" alt="Argyle: A Conversational Chatbot for Your Next Big Move" height="100"/>
 
 [Argyle: A Conversational Chatbot for Your Next Big Move](https://medium.com/@talynfan/argyle-a-conversational-chatbot-for-your-next-big-move-8d6863f3fba9)
 
 
 
-<img src="pics/sonus final.jpg" alt="The Fox in the Future (Sonus)" width="500"/>
+- <img src="pics/sonus final.jpg" alt="The Fox in the Future (Sonus)" height="100"/>
 
 [The Fox in the Future (Sonus)](https://medium.com/@talynfan/the-fox-in-the-future-edf1eb87bcba)
 
