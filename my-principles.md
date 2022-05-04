@@ -1,4 +1,4 @@
-# Talyn Fan
+# TALYN FAN
 
 [Home](/home.md) | [About Me](/home.md#about-me) | [My Design Principles](/my-principles.md) | [My Work](/home.md#my-work) | [Contact](/home.md#contact)
 
