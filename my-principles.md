@@ -41,18 +41,18 @@ So, I went with the second idea: illustrate a user story with made up characters
 % Sonus demo video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kYm8l7__9jU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-and video game design
+I also consciously created a story-like experience with a visualization depicting video game statistics. By clicking through the interactive visualization from start to finish, reading the captions and engaging with the data, the user gains an understanding of how genre affects (or doesn't affect) the popularity of video games.
 
 % Video game demo video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MKC1jK0KJ8Q?start=192" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-A well-crafted design will both allow the user to intuitively complete specific linear tasks, while also being flexible enough for them to make their own personalized "stories" based on what is most important to them.
+**In general, a well-crafted design will both allow the user to intuitively complete specific linear tasks, while also being flexible enough for them to make their own personalized "stories" based on what is most important to them.**
 
 ## Joy
 
 Enjoyment is very important to me. A product should be fun to use, beyond its utility value. Creativity and innovation is what makes humans superior over algorithms.
 
-Include Argyle and video game design. Sarcastic personality really shines
+Attention to joy and entertainment is most evident in my video game visualization. Sarcastic personality really shines
 
 <img src="pics/vg adventure.png" alt="Adventure genre video game visualization" width="600"/>
 
@@ -73,21 +73,23 @@ I imitated the way real people my age type to make things a little playful and a
 
 ## Organization
 
-I keep organized in my design process and take good notes of all iterations, from start to finish. In a team, I am typically the person to "take minutes" of what is accomplished each meeting or day.
+This is a principle that is highly stressed in my life as a programmer. Your code has to contain comments so that another programmer, or your future self, can easily parse through your algorithms to replicate or improve them. "Version Control" is important for large projects (especially collaborative ones) so that, even when you implement major changes to a program, you can still recover and analyze prior versions.
 
-Include log of daily activities for figma, 
+Documentation of the design process is somewhat like version control. **I keep organized in my design process and take good notes of all iterations, from start to finish.** When working in a design team, I am typically the person to "take minutes" of what is accomplished each meeting or day.
+
+When I was working with a team on the Fox Theater mobile site redesign project, I made just these kinds of notes.
 
 <img src="pics/fox process document.png" alt="Design log for Fox Theater website redesign" width="600"/>
 
-in progress photos of sonus, 
+I ensured that photos were taken of each Sonus mask iteration as we experimented with different ways of attaching the mask to the face, or attaching those attachments to the mask. This was important to mark our progress, especially because the creation of a new prototype sometimes required the mutilation of a prior iteration to salvage materials.
 
 <img src="pics/sonus draft 1.jpg" alt="First draft of sonus mask" width="600"/>
 
-really organized spreadsheet for Argyle
-
+Aside from documentation, I also prioritized organization in the design process itself. Argyle the chatbot had a very long conversational flow, so it was important to keep all of the questions and answers in the proper order. To maintain order, and also make my intended conversation flow more intuitive to my teammates who would implement the bot, I created a robust spreadsheet system with consistent "tags" for each question category.
 
 <img src="pics/argyle categories.png" alt="Categories for the Argyle chatbot" width="600"/>
 
+**Even though cutting corners may save time in the short term, staying organized in the design process ultimately improves teamwork and workflow.**
 
 ## Low-fidelity prototyping
 
