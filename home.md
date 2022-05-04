@@ -11,6 +11,11 @@ I graduated from Emory University with a B.A. in English and Creative Writing an
 
 ***
 
+## My Design Principles
+[Click here to read about what's important to me as a designer](/my-principles.md)
+
+***
+
 ## My work
 
 <img src="pics/fox calendar figma prototype.png" alt="Redesigning the Fox Theater Website" height="100"/>  [Redesigning the Fox Theater Website](https://medium.com/@talynfan/redesigning-the-fox-theatre-website-8ebb5d3e290d)
