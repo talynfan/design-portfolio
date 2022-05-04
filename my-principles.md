@@ -6,7 +6,7 @@
 
 _What's important to me as a designer?_
 
-When I started designing for the first time in Fall 2021, I wasn't sure how much I would enjoy it or how good I'd be. It felt so different from my other experience in creative writing, computer science, and theater. Contrary to my initial worries, I have carried my skills and instincts from these other parts of my life into design. I approach interface design with the same core principles that I use in my other identities as an artist and coder.
+When I started designing for the first time in Fall 2021, I wasn't sure how much I would enjoy it or how good I'd be. It felt so different from my prior experience in creative writing, computer science, and theater. As I soon discovered, though, my skills and instincts from these other parts of my life are transferrable to my design process. I approach interface design with the same core principles that I use in my other identities as an artist and coder.
 
 ### Skip to:
 
