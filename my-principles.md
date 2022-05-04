@@ -52,9 +52,13 @@ I also consciously created a story-like experience with a visualization depictin
 
 ## Joy
 
-Enjoyment is very important to me. A product should be fun to use, beyond its utility value. Creativity and innovation is what makes humans superior over algorithms.
+In addition to a user's understanding of a product, their enjoyment is also very important. A good design should be fun to use, beyond its pure utility value.
 
-Attention to joy and entertainment is most evident in my video game visualization. Sarcastic personality really shines
+Attention to joy and entertainment is most evident in my video game visualization. As my team browsed the CSV data, we got caught up playing “I spy” with titles that we recognized or had played. We wanted to bring this joyful experience of discovery to a wider audience with our visualizations.
+
+Our team used our prior knowledge of video games, plus a little bit of research, to create “fun facts” about each of the genres. We spent some time exploring the visualization ourselves and noted what we found interesting or peculiar. The captions for each genre’s slide were written to be informational and entertaining, and also prompt exploration of the data. We hoped that users could have fun hunting for game titles they might recognize, either from our prompts or from their own curiosity.
+
+Below are a few of the slides with captions based on my own personal knowledge and experience with these games. I injected the "facts" with my clearly biased opinions to add some sarcastic humor to the visualization.
 
 <img src="pics/vg adventure.png" alt="Adventure genre video game visualization" width="600"/>
 
@@ -62,16 +66,18 @@ Attention to joy and entertainment is most evident in my video game visualizatio
 
 <img src="pics/vg strategy.png" alt="Strategy video game visualization" width="600"/>
 
-Choice of Argyle name instead of bot
+When choosing the name for my conversational chatbot, I suggested the name "Argyle" instead of a more robotic name like 
+“Movebot” (or anything with “bot” at the end). “Argyle” was anthropomorphic but also a little abstract (like an argyle vest). They/He/It sounded like a casual friend who would be knowledgeable, kind, and trustworthy, but also not afraid to be blunt when necessary. The more human name and personality would help users feel more comfortable interacting with it and enjoy the whimsy of having a digital "friend" to talk to.
 
-When it was time for the results phase, instead of a blunt
+I wrote Argyle's dialogue to have some personality to add flavor to its function. For example, At the end of the conversation flow with Argyle, the bot returns a summary of the user's sentiments on the discussed potential city of residence. Instead of a bland message:
 
 > Click next for results
 
-I imitated the way real people my age type to make things a little playful and add a hint of excitement.
+I instead imitated the way real people of college age type. The new message is a little playful and adds a hint of excitement:
 
 > Aaaaand that's all the questions I have. Ready for your results?
 
+**As a designer, it is my responsibility and pleasure to use my creativity and innovation to create fun designs.**
 
 ## Organization
 
