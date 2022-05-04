@@ -16,7 +16,7 @@ When I started designing for the first time in Fall 2021, I wasn't sure how much
 2. [Joy](#joy)
 3. [Organization](#organization)
 4. [Low-fidelity prototyping](#low-fidelity-prototyping)
-5. [Risk-taking](#risk-taking)
+5. [Risk-Taking](#risk-taking)
 
 ## Storytelling
 
@@ -40,19 +40,17 @@ When creating a demo video for a new product design for the Fox Theater, "Sonus"
 
 So, I went with the second idea: illustrate a user story with made up characters in a scenario typical of when Sonus might be helpful. Present the problem (wanting to give live commentary in the theater), present the potential solution (Sonus), and illustrate how the solution solves the problem. A slogan in the title, "Live Theater, Live Commentary," further communicates the intent of the design in a catchy, succinct manner. By creating the demo video to be like a little movie with a story, it better communicates the design to the target audience so that their own minds fill in the gaps of the incomplete prototype.
 
-% Sonus demo video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kYm8l7__9jU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 I also consciously created a story-like experience with a visualization depicting video game statistics. By clicking through the interactive visualization from start to finish, reading the captions and engaging with the data, the user gains an understanding of how genre affects (or doesn't affect) the popularity of video games.
 
-% Video game demo video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MKC1jK0KJ8Q?start=192" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **In general, a well-crafted design will both allow the user to intuitively complete specific linear tasks, while also being flexible enough for them to make their own personalized "stories" based on what is most important to them.**
 
 ## Joy
 
-In addition to a user's understanding of a product, their enjoyment is also very important. A good design should be fun to use, beyond its pure utility value.
+In addition to a user's understanding of a product, their enjoyment is also very important. **A good design should be fun to use, beyond its pure utility value.**
 
 Attention to joy and entertainment is most evident in my video game visualization. As my team browsed the CSV data, we got caught up playing “I spy” with titles that we recognized or had played. We wanted to bring this joyful experience of discovery to a wider audience with our visualizations.
 
@@ -129,23 +127,29 @@ After evaluating the paper screens with user testing, we moved on to remake them
 
 In summary, **low-fidelity sketching is my prototyping medium of choice because it allows for rapid iteration and efficiency of effort.**
 
-## Risk-taking
+## Risk-Taking
 
-Not all of the things I do work. 
+Low-fidelity prototyping pairs well with my final two design principles: risk-taking. Simply put, I have accepted that not all of my designs will work as intended, but that is okay. **It is better to take creative risks and be ambitious than to play it completely safe.** If all designs were recycled from previous, successful, "safe" products, then what even is the point of being a designer?
 
-Problems with Sonus mask
+**The nice thing about low-fidelity prototyping is that the investment in each iteration is relatively small in terms of time and resources.** If a sketch is bad, I simply draw another one. If a user does not understand my paper prototype, I can make a new screen on the fly to address the issue.
+
+In particular, I had several issues in the creation of the Sonus mask for the Fox Theater. The creation of the physical prototype itself was tricky. In our first iteration of the prototype, the ear straps were too loose, the mask wouldn't stay conformed to the face, and the mask was too large. We couldn't even get hot glue to stick to a shaping wire that was intended to fix many of these problems.
 
 <img src="pics/sonus failed wire.jpg" alt="Failing to attach a wire to the Sonus mask" width="600"/>
 
+Instead of becoming discouraged by these setbacks, though, we persevered and finally created a prototype that stayed on the face. It even had a functioning microphone transmitter attached to it.
+
 <img src="pics/sonus final.jpg" alt="Final iteration of Sonus mask" width="600"/>
 
-**Such is the nature of bold design — risks don’t always pan out as you hope, but with each iteration, the solution comes closer within reach.**
+The evaluation of Sonus revealed new problems, however, and these were not so easily fixed with some wire and ingenuity. We showed the demo video to a couple college students near our target user group and the feedback was less than glowing.
 
-Talk about Argyle, Sonus
+One problem that was mentioned was whether or not a user would still be able to listen to and focus on the show itself if they also had to hear the commentary. In order to understand how teachers and students would feel about the distraction versus educational value, we would need to conduct a real usability study with a class and a performance. However, this costs time and money, and would also require a much higher fidelity soundproof mask. After our user interviews, it seems very possible that it is not actually a good product, and so spending resources on thorough testing could be a waste.
 
-Iteration is the key afterwards. This goes with low-fidelity prototyping.
+If Sonus is not a viable product for improving education in live theaters, then we may need to go back to the drawing board and brainstorm other solutions. **Such is the nature of bold design — risks don’t always pan out as you hope, but with each iteration, the solution comes closer within reach.**
 
 ***
+
+**Altogether, these design principles represent what is important to me as a designer. They guide me in my work to create the most entertaining and innovative user experiences possible.**
 
 [_Read about my design projects in detail here._](/home.md#my-work)
 
