@@ -1,6 +1,6 @@
 # Talyn Fan
 
-### [Home](/home.md) | [About Me](/home.md#about-me) | [My Design Principles](/my-principles.md) | [My Work](/home.md#my-work) | [Contact](/home.md#contact)
+[Home](/home.md) | [About Me](/home.md#about-me) | [My Design Principles](/my-principles.md) | [My Work](/home.md#my-work) | [Contact](/home.md#contact)
 
 ***
 
@@ -149,4 +149,6 @@ Iteration is the key afterwards. This goes with low-fidelity prototyping.
 
 [_Read about my design projects in detail here._](/home.md#my-work)
 
-### [Home](/home.md) | [About Me](/home.md#about-me) | [My Design Principles](/my-principles.md) | [My Work](/home.md#my-work) | [Contact](/home.md#contact)
+***
+
+[Home](/home.md) | [About Me](/home.md#about-me) | [My Design Principles](/my-principles.md) | [My Work](/home.md#my-work) | [Contact](/home.md#contact)
