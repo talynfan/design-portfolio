@@ -11,10 +11,20 @@ I graduated from Emory University with a B.A. in English and Creative Writing an
 
 ## My work
 
-- [Redesigning the Fox Theater Website](https://medium.com/@talynfan/redesigning-the-fox-theatre-website-8ebb5d3e290d)
-- [Visualizing Video Games](https://medium.com/@talynfan/visualizing-video-games-b97b8d7f8d62)
-- [Argyle: A Conversational Chatbot for Your Next Big Move](https://medium.com/@talynfan/argyle-a-conversational-chatbot-for-your-next-big-move-8d6863f3fba9)
-- [The Fox in the Future](https://medium.com/@talynfan/the-fox-in-the-future-edf1eb87bcba)
+<img src="pics/fox calendar figma prototype.png" alt="Redesigning the Fox Theater Website" width="500"/> 
+[Redesigning the Fox Theater Website](https://medium.com/@talynfan/redesigning-the-fox-theatre-website-8ebb5d3e290d)
+
+
+<img src="pics/vg adventure.png" alt="Visualizing Video Games" width="500"/>
+[Visualizing Video Games](https://medium.com/@talynfan/visualizing-video-games-b97b8d7f8d62)
+
+
+<img src="pics/argyle ui.png" alt="Argyle: A Conversational Chatbot for Your Next Big Move" width="500"/>
+[Argyle: A Conversational Chatbot for Your Next Big Move](https://medium.com/@talynfan/argyle-a-conversational-chatbot-for-your-next-big-move-8d6863f3fba9)
+
+
+<img src="pics/sonus final.jpg" alt="The Fox in the Future (Sonus)" width="500"/>
+[The Fox in the Future (Sonus)](https://medium.com/@talynfan/the-fox-in-the-future-edf1eb87bcba)
 
 
 ## Contact
