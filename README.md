@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+# TALYN FAN
 
-You can use the [editor on GitHub](https://github.com/talynfan/design-portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+[Home](/home.md) | [About Me](#about-me) | [My Design Principles](/my-principles.md) | [My Work](#my-work) | [Contact](#contact)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+***
 
-### Markdown
+## About Me
+<img src="pics/portrait.jpg" alt="Portrait of Talyn Fan" width="200"/>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I graduated from Emory University with a B.A. in English and Creative Writing and a minor in Computer Science in 2022. In both my artistic and technological pursuits, I aim to craft entertaining and meaningful experiences for my audiences.
 
-```markdown
-Syntax highlighted code block
+***
 
-# Header 1
-## Header 2
-### Header 3
+## My Design Principles
+[Click here to read about what's important to me as a designer](/my-principles.md)
 
-- Bulleted
-- List
+***
 
-1. Numbered
-2. List
+## My work
 
-**Bold** and _Italic_ and `Code` text
+<img src="pics/fox calendar figma prototype.png" alt="Redesigning the Fox Theater Website" height="100"/>  [Redesigning the Fox Theater Website](https://medium.com/@talynfan/redesigning-the-fox-theatre-website-8ebb5d3e290d)
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+<img src="pics/vg strategy.png" alt="Visualizing Video Games" height="100"/> [Visualizing Video Games](https://medium.com/@talynfan/visualizing-video-games-b97b8d7f8d62)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/talynfan/design-portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<img src="pics/argyle ui.png" alt="Argyle: A Conversational Chatbot for Your Next Big Move" height="100"/> [Argyle: A Conversational Chatbot for Your Next Big Move](https://medium.com/@talynfan/argyle-a-conversational-chatbot-for-your-next-big-move-8d6863f3fba9)
+
+
+
+<img src="pics/sonus final.jpg" alt="The Fox in the Future (Sonus)" height="100"/> [The Fox in the Future (Sonus)](https://medium.com/@talynfan/the-fox-in-the-future-edf1eb87bcba)
+
+
+
+## Contact
+Email: talynfan@gmail.com
+
+[LinkedIn](https://www.linkedin.com/in/talyn-fan-987652203/)
+
+***
+
+[Home](/home.md) | [About Me](#about-me) | [My Design Principles](/my-principles.md) | [My Work](#my-work) | [Contact](#contact)
