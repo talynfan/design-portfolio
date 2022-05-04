@@ -1,6 +1,6 @@
 # Talyn Fan
 
-[Home](/home.md) | [About Me](#about-me) | [My Design Principles](/my-principles.md) | [My Work](#my-work) | [Contact](#contact)
+### [Home](/home.md) | [About Me](/home.md#about-me) | [My Design Principles](/my-principles.md) | [My Work](/home.md#my-work) | [Contact](/home.md#contact)
 
 # My Design Principles
 
@@ -8,7 +8,15 @@ _What's important to me as a designer?_
 
 When I started designing for the first time in Fall 2021, I wasn't sure how much I would enjoy it or how good I'd be. It felt so different from my other experience in creative writing, computer science, and theater. Contrary to my initial worries, I have carried my skills and instincts from these other parts of my life into design. I approach interface design with the same core principles that I use in my other identities as an artist and coder.
 
-## 1. Storytelling
+### Skip to:
+
+1. [Storytelling](#storytelling)
+2. [Joy](#joy)
+3. [Organization](#organization)
+4. [Low-fidelity prototyping](#low-fidelity-prototyping)
+5. [Risk-taking](#risk-taking)
+
+## Storytelling
 
 A user's experience is like a crafted story. I like thinking about the psychology of my audience: where people will look first, what will stay in their minds after the experience. As a writer, I am versed in guiding a linear narrative and storytelling. Specifically, my work in live theater (primarily as a playwright and actor) has cultivated a constant awareness of a literal live audience's state-of-mind.
 
@@ -22,11 +30,13 @@ When I worked on the conversational chatbot Argyle, I created a mostly linear co
 
 <img src="pics/argyle categories.png" alt="Argyle's conversational framework" width="600"/>
 
-I also worked with a team to create a flowchart for a Figma prototype of a redesigned Fox Theater mobile site.
+I also worked with a team to create a flowchart for a Figma prototype of a redesigned Fox Theater mobile site. While more complicated than the Argyle flow, it is still easily navigable. The menu at the bottom helps the user find what they're looking for, while "back" buttons on almost all of the screens allow for quick and easy error correction.
 
 <img src="pics/fox figma flowchart.png" alt="Flow for Fox Theater mobile site on Figma" width="600"/>
 
-Storytelling
+When creating a demo video for a new product design for the Fox Theater, "Sonus", I had two choices. One idea was to simply film the physical prototype from multiple angles and describe its function. However, this would have been a stiff and uninspiring video, as our actual prototype was relatively unfunctional. 
+
+So, I went with the second idea: illustrate a user story with made up characters in a scenario typical of when Sonus might be helpful. Present the problem (wanting to give live commentary in the theater), present the potential solution (Sonus), and illustrate how the solution solves the problem. A slogan in the title, "Live Theater, Live Commentary," further communicates the intent of the design in a catchy, succinct manner. By creating the demo video to be like a little movie with a story, it better communicates the design to the target audience so that their own minds fill in the gaps of the incomplete prototype.
 
 % Sonus demo video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kYm8l7__9jU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -119,4 +129,4 @@ Iteration is the key afterwards. This goes with low-fidelity prototyping.
 
 [_Read about my design projects in detail here._](/home.md#my-work)
 
-[Home](/home.md) | [About Me](#about-me) | [My Design Principles](/my-principles.md) | [My Work](#my-work) | [Contact](#contact)
+### [Home](/home.md) | [About Me](/home.md#about-me) | [My Design Principles](/my-principles.md) | [My Work](/home.md#my-work) | [Contact](/home.md#contact)
