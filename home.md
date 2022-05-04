@@ -22,7 +22,7 @@ I graduated from Emory University with a B.A. in English and Creative Writing an
 
 
 
-<img src="pics/vg adventure.png" alt="Visualizing Video Games" height="100"/> [Visualizing Video Games](https://medium.com/@talynfan/visualizing-video-games-b97b8d7f8d62)
+<img src="pics/vg strategy.png" alt="Visualizing Video Games" height="100"/> [Visualizing Video Games](https://medium.com/@talynfan/visualizing-video-games-b97b8d7f8d62)
 
 
 
