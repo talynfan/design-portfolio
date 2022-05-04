@@ -129,7 +129,7 @@ In summary, **low-fidelity sketching is my prototyping medium of choice because 
 
 ## Risk-Taking
 
-Low-fidelity prototyping pairs well with my finaldesign principle: risk-taking. Simply put, I have accepted that not all of my designs will work as intended, but that is okay. **It is better to take creative risks and be ambitious than to play it completely safe.** If all designs were recycled from previous, successful, "safe" products, then what even is the point of being a designer?
+Low-fidelity prototyping pairs well with my final design principle: risk-taking. Simply put, I have accepted that not all of my designs will work as intended, but that is okay. **It is better to take creative risks and be ambitious than to play it completely safe.** If all designs were recycled from previous, successful, "safe" products, then what even is the point of being a designer?
 
 **The nice thing about low-fidelity prototyping is that the investment in each iteration is relatively small in terms of time and resources.** If a sketch is bad, I simply draw another one. If a user does not understand my paper prototype, I can make a new screen on the fly to address the issue. I thus have more room to take risks and fail freely.
 
