@@ -30,7 +30,7 @@ As I design, I keep in mind the "story" of the user's experience, from start to 
 
 When I worked on the conversational chatbot Argyle, I created a mostly linear conversation flow that could also branch based on user responses. Each response clearly linked to a personalized reply from Argyle, either immediately, or at the end of the conversation when Argyle summarized the results of the interaction.
 
-<img src="pics/argyle categories.png" alt="Argyle's conversational framework" width="600"/>
+<img src="pics/argyle loc questions.png" alt="Argyle's conversational framework" width="600"/>
 
 I also worked with a team to create a flowchart for a Figma prototype of a redesigned Fox Theater mobile site. While more complicated than the Argyle flow, it is still easily navigable. The menu at the bottom helps the user find what they're looking for, while "back" buttons on almost all of the screens allow for quick and easy error correction.
 
